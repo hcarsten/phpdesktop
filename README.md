@@ -4,11 +4,6 @@
 Table of contents:
 * [Introduction for the Fork](#introduction-fork-2024)
 * [Introduction](#introduction)
-* [Downloads](#downloads)
-* [Support](#support)
-* [Fundings for new features](#fundings-for-new-features)
-* [Support development](#support-development)
-* [Seeking sponsors](#seeking-sponsors)
 
 ## Introduction Fork 2024
 We just saw the project as a perfect fit for our needs; anyway it still supports MSIE and seems to be abbandonated in '22. But also important it is still missing MacOS X support.
